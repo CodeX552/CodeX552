@@ -109,7 +109,7 @@
 
 ### 📜 Certification
 - ✅ IBM SkillsBuild – AI Virtual Internship  
-- 🔗 [View Certificate]((https://drive.google.com/file/d/1Ng90ffdyUSqjcUg-dSDquzW_IzK4plnu/view?usp=sharing))
+- 🔗 [View Certificate](https://drive.google.com/file/d/1Ng90ffdyUSqjcUg-dSDquzW_IzK4plnu/view?usp=sharing)
 
 ---
 
