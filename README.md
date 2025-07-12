@@ -55,6 +55,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeX552&theme=tokyonight" height="180"/>
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeX552&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeX552&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeX552&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeX552&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeX552&theme=github_dark&utcOffset=8)
+
+
 ---
 
 ### 🏆 GitHub Trophies
