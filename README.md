@@ -1,5 +1,6 @@
 <p align="center">
-  <img src=" /Users/prateekgiri/Downloads/ChatGPT\ Image\ Jul\ 13\,\ 2025\,\ 01_25_50\ AM.png" width="150" />
+ <img src="file:///Users/prateekgiri/Downloads/ChatGPT%20Image%20Jul%2013,%202025,%2001_25_50%20AM.png" width="150" />
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Prateek Giri</h1>
