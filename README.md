@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/CodeX552" width="150" />
+  <img src="[htts://avatars.githubusercontent.com/CodeX552](https://chatgpt.com/s/m_6872c1c15e988191bcba5dc775901f2e)" width="150" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prateek Giri</h1>
