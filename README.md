@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[htts://avatars.githubusercontent.com/CodeX552](https://chatgpt.com/s/m_6872c1c15e988191bcba5dc775901f2e)](https://chatgpt.com/backend-api/public_content/enc/eyJpZCI6Im1fNjg3MmMxYzE1ZTk4ODE5MWJjYmE1ZGM3NzU5MDFmMmU6ZmlsZV8wMDAwMDAwMDFjNTA2MWY3YmFiYmIzOGI0ZDg2ZjVkNiIsInRzIjoiNDg2NzY0IiwicCI6InB5aSIsInNpZyI6IjQxMmE2NWQ0ZDA2M2ZlY2U4ZjNmMmJjZWMwNzM0YWE0ZDg2NTRkM2M5ODJiMzJjMzcyMTU2MzQ0YTEyZDNlYzIiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsfQ==)" width="150" />
+  <img src=" /Users/prateekgiri/Downloads/ChatGPT\ Image\ Jul\ 13\,\ 2025\,\ 01_25_50\ AM.png" width="150" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prateek Giri</h1>
