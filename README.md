@@ -1,5 +1,5 @@
 <p align="center">
- <img src="file:///Users/prateekgiri/Downloads/ChatGPT%20Image%20Jul%2013,%202025,%2001_25_50%20AM.png" width="150" />
+ <img src="banner.png" width="150" />
 
 </p>
 
