@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/CodeX552" width="150" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Prateek Giri</h1>
 <h3 align="center">Full Stack Web Developer | AI Enthusiast | Tech Explorer</h3>
