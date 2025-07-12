@@ -3,8 +3,8 @@
 
 </p>
 
- <img src="[https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harshit+Pandey](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prateek+Giri" alt="Typing SVG)" align="middle" alt="Hey👋, I'm Prateek Giri, Welcome to my Profile! animated typed out">
-<img  src="borderseperator.gif">
+[ <img src="[https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harshit+Pandey](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prateek+Giri" alt="Typing SVG)" align="middle" alt="Hey👋, I'm Prateek Giri, Welcome to my Profile! animated typed out">
+<img  src="borderseperator.gif">](https://readme-typing-svg.demolab.com/demo/?color=5486C5&lines=Hi+%F0%9F%91%8B%2C+I'm+Prateek+Giri)
 <h3 align="center">Full Stack Web Developer | AI Enthusiast | Tech Explorer</h3>
 
 <p align="center">
