@@ -1,120 +1,127 @@
-<p align="center">
- <img src="Git.jpeg" width="1584" height="396" />
+<div align="center">
 
-</p>
+# Prateek Giri
+### Full-Stack Developer · MERN · Java · AI-Integrated Applications
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-giri-4634a1258/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prateekgiri08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CodeX552)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/)
+</div>
+
+---
+
+## About Me
+
+B.Tech Computer Science (AI/ML) student at Galgotias College, graduating in 2026. I build full-stack web applications with a focus on clean architecture, performance, and real-world impact.
+
+- Currently deepening expertise in **TypeScript**, **Next.js**, and **system design**
+- **GATE 2026 Qualified** — Computer Science & Information Technology
+- Solved **250+ problems on LeetCode** with a contest rating of **1521**
+- IBM SkillsBuild certified in Front-End Web Development
+- Open to **SDE internships** and **fresher full-stack / Java roles**
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## Featured Projects
+
+### Prescripto — Doctor Appointment Platform
+> Multi-role healthcare platform with fully isolated Patient, Doctor, and Admin dashboards
+
+- Role-based access control via **JWT authentication**
+- Complete appointment booking workflow — slot selection, confirmation, tracking
+- Reduced MongoDB query response time by **70%** using compound indexing
+- **Stack:** React.js · Node.js · Express.js · MongoDB · Tailwind CSS
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat&logo=github)](https://github.com/CodeX552)
+[![Live](https://img.shields.io/badge/Live_Demo-000?style=flat&logo=vercel)](https://github.com/CodeX552)
+
+---
+
+### Dishly — AI-Powered Recipe Assistant
+> Cooking platform that generates personalized recipe suggestions from available ingredients
+
+- Users input ingredients → receive AI-generated recipe suggestions to reduce food waste
+- Digital cookbook: save, export as PDF, and share recipes
+- Search filtered by cuisine, preparation time, and dietary preferences
+- **Stack:** React.js · Next.js · Node.js · Tailwind CSS · Vercel
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat&logo=github)](https://github.com/CodeX552)
+[![Live](https://img.shields.io/badge/Live_Demo-000?style=flat&logo=vercel)](https://github.com/CodeX552)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=5486C5&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prateek+Giri)](https://git.io/typing-svg)</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeX552&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <a href="mailto:prateekgiri08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/prateek-giri-4634a1258/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/CodeX552" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeX552&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeX552&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## Competitive Programming
 
-- 🔭 I recently completed a virtual internship with **IBM SkillsBuild (AI track)**  
-- 🌱 I’m currently learning **TypeScript**, **MongoDB**, and exploring **AI + Web Dev**
-- 💬 Ask me about **React, JavaScript, Java, C++, Node.js, Tailwind**
-- 📫 Reach me at: **prateekgiri08@gmail.com**
-- ⚡ Fun fact: I love creating modern UIs and deploying cool projects
+| Platform | Handle | Stats |
+|----------|--------|-------|
+| LeetCode | [View Profile](https://leetcode.com/) | 250+ problems · Rating 1521 |
+---
+
+## Certifications
+
+| Certificate | Issuer | Link |
+|-------------|--------|------|
+| Front-End Web Development | IBM SkillsBuild | [View](https://drive.google.com/file/d/1Ng90ffdyUSqjcUg-dSDquzW_IzK4plnu/view?usp=sharing) |
+| Database Programming with SQL | Oracle | [View](https://drive.google.com/file/d/1orb9gCFgt_xLvZ67QlKKiIIND-P3-n-7/view) |
+| Java Full Stack | WIPRO | [View](https://drive.google.com/file/d/1B3K10-BlQTpW9aTW2U66lbHtAw7SbNnn/view) |
 
 ---
 
-### 🛠 &nbsp;Tech Stack
-<img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/>
+## Education
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=black)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)&nbsp;
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-CA4245?style=flat&logo=framer&logoColor=black)
-![Socket.io](https://img.shields.io/badge/socket.io-%23404d50?style=flat&logo=socket.io&logoColor=yellow)
+**B.Tech in Computer Science (AI/ML)**
+Galgotias College of Engineering and Technology, Greater Noida
+2022 – 2026 · CGPA: 8.2 / 10
 
-![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-hotpink.svg?style=flat&logo=Bootstrap&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/Mongodb-%23007ACC.svg?style=flat&logo=Mongodb&logoColor=white)&nbsp;
-![JAVA](https://img.shields.io/badge/java-%23000000.svg?style=flat&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-
-
-<details>
-<summary>More Skills</summary>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-0028d7.svg?style=flat&logo=postman&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=flat&logo=figma&logoColor=white)
-
-</details>
-
-<hr/>
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeX552&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeX552&theme=tokyonight" height="180"/>
-</p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeX552&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeX552&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeX552&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeX552&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeX552&theme=github_dark&utcOffset=8)
-
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeX552&theme=darkhub&row=1" />
-</p>
-
----
-
-### 🚀 Featured Project
-
-#### 🌦️ **Weather App – Real-time Weather Data**
-- Live Site: [weather-app-codex.netlify.app](https://weather-app-codex.netlify.app/)
-- GitHub Repo: [CodeX552/Weather_App](https://github.com/CodeX552/Weather_App)
-
-> Developed a responsive weather web app that fetches real-time weather using an external API.  
-> Built with **HTML, CSS, JavaScript**, and deployed via **Netlify**.
-
----
-
-### 🎓 Education
-- 🏫 **B.Tech in Computer Science**, Galgotias College (2022–2026)  
-- 📍 Greater Noida, UP | CGPA: 8.2/10
-
----
-
-### 📜 Certification
-- ✅ IBM SkillsBuild – AI Virtual Internship  
-- 🔗 [View Certificate](https://drive.google.com/file/d/1Ng90ffdyUSqjcUg-dSDquzW_IzK4plnu/view?usp=sharing)
-
----
-
-### 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/prateek-giri-4634a1258/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:prateekgiri08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
