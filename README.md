@@ -71,7 +71,7 @@ B.Tech Computer Science (AI/ML) student at Galgotias College, graduating in 2026
 - **Stack:** React.js · Node.js · Express.js · MongoDB · Tailwind CSS
 
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat&logo=github)](https://github.com/CodeX552)
-[![Live](https://img.shields.io/badge/Live_Demo-000?style=flat&logo=vercel)](https://github.com/CodeX552)
+[![Live](https://img.shields.io/badge/Live_Demo-000?style=flat&logo=vercel)](https://prescripto-frontend-0zub.onrender.com/)
 
 ---
 
@@ -84,7 +84,7 @@ B.Tech Computer Science (AI/ML) student at Galgotias College, graduating in 2026
 - **Stack:** React.js · Next.js · Node.js · Tailwind CSS · Vercel
 
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat&logo=github)](https://github.com/CodeX552)
-[![Live](https://img.shields.io/badge/Live_Demo-000?style=flat&logo=vercel)](https://github.com/CodeX552)
+[![Live](https://img.shields.io/badge/Live_Demo-000?style=flat&logo=vercel)](https://dishly-alpha.vercel.app/)
 
 ---
 
